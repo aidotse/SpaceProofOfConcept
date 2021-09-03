@@ -16,6 +16,48 @@ and speakers [here](https://sv-se.invajo.com/events/tab/tabId/97abcad0-d8d9-11eb
 
 The first part of the event is an open webinar 8-10:45AM 7th of September, if you wish to join please register [here](https://sv-se.invajo.com/events/welcome/id/60d4eec0-d34c-11eb-a1e6-afb858150bed)
 
+**Day 1**  
+8.15-8.25 Intro by AI Sweden & the Swedish National Space Agency  
+8.25-8.40 Fredrik Bruhn - Unibap - About Spacecloud & more  
+8.40-8.55 Kim Henrikson - Zenseact/AI Sweden - Egde Lab   
+8.55-9.00 Short break  
+9.00-9.15 Evgenia Novikova - Smartilizer - About Federated frameworks and tools  
+9.15-9.45 Christer Fuglesang - KTH -   
+9.45-9.50 Short break  
+9.50-10.10 Tina & Tom Sjögren - Pythomspace  
+10.10-10.20 Massimiliano Pastena - European Space Agency    
+10.20-10.35 Sorin Cheran - Hewlett Packard Enterprise - Swarm Learning  
+10.35-10.45 Q&A and sum-up  
+
+**Open webinar transitions into invite only session**    
+
+10.45-12.00 Collaboraton kick-off brainstorming session (on site & remote)
+
+12-13 LUNCH BREAK
+
+13.00-16.30 Start of Collaboraton with free experimentation and exploration in the Egde Lab.  
+
+13.00-13:30 Deep dive into the edge lab infrastructure and Q&A to get everybody started - Kim/Leo
+
+? Afternoon HPE Swarm learning walkthrough
+
+16.30-17.30 After Work session - with **Tom and Tina from Pythomspace calling in live at 17.00**  
+
+**Day 2**  
+08.00-17.00 Collaboraton continues (By invite and application only, on site & remote)
+
+09.00-09.45 Tobias Edman -  Rymdstyrelsen giving a data walkthrough.
+
+During the day, representatives from Smartilizer, HPE, Unibap and AI Sweden will be available for brainstorming and support on Slack.
+
+
+**Day 3**  
+Continuation of Collaboraton - by invite and application only (on site & remote)
+
+**15.00 the event opens up to the public again**  
+
+15.00-17.00 Conclusion, wrap up and sharing of the PoC:s (open webinar)
+
 
 
 Information for collaboration attendees 
