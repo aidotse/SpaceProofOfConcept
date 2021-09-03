@@ -24,14 +24,29 @@ Please note that the collaboration part of the event, 10:45AM 7th to 5PM 9th of 
 
 At the end of the brainstorming session we will ask you to pair up into groups of 3-7. Our hope is that the brainstorming will lead to a discovery of shared interest and ideas and therefore aim to leave the pairing up to you. If you wish to change group during the event, please notify us in slack (or in person if you are attending on-site). 
 
-## Equipment
+## VPN access
+VPN account credentials has been sent out via mail, if you have not recieved them or has questions, reach out to kim@ai.se
+
+Please refer to the **VPNAccessGuideForX.pdf** for more detailed information for setting up the VPN connection.
+
+**NOTE:** After you have logged in for the first time trough the vpn, you will need to change from the “default” password. After changing password, you will have the new password on both the VPN and services assigned to you.
+
+Steps:
+1. Go to accounts.edgelab.network/auth/realms/edgelab/account/ - requires VPN connection.
+2. Login with the password given to you over Email.
+3. Go to Signing In and then press Update
+4. Change password.
+5. Done!
+
+## Equipment/Project setup
 
 We've set up 3 baseline projects for the participants/collaborators to use freely during the event. Each machine has a "fresh" install of either the vendors suggested OS or when that does not applicable, Ubuntu 20.04 LTS. The hardware and networking setup for each project can be modified upon request, e.g. add/remove resources, limit bandwith etc.
 
-Generic user guides for the various hw can be found here: 
-**Nvidia Jetson AGX Xavier** [documentation and tutorials](https://developer.nvidia.com/embedded/learn/getting-started-jetson)
-**Google Coral** [documentation and tutorials](https://coral.ai/docs/)
-**Raspberry Pi 4** [documentation and tutorials](https://www.raspberrypi.org/learn/)
+Generic user guides for the various hw can be found here:
+
+**Nvidia Jetson AGX Xavier** [documentation and tutorials](https://developer.nvidia.com/embedded/learn/getting-started-jetson)  
+**Google Coral** [documentation and tutorials](https://coral.ai/docs/)  
+**Raspberry Pi 4** [documentation and tutorials](https://www.raspberrypi.org/learn/)  
 
 To access the projects you will have to connect via VPN (this also applies to those whom are attending on-site)
 
