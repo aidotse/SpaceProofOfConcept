@@ -36,15 +36,6 @@ Generic user guides for the various hw can be found here:
 To access the projects you will have to connect via VPN (this also applies to those whom are attending on-site)
 
 ### Project 1
-2x**Nvidia Jetson AGX Xavier**
-
-2x**Google Coral**
-
-2x**Raspberry Pi 4**
-
-2x**Virtual Machine**
-
-1x**Virtual Machine with Copernicus datasets under /mount/copernicus**
 
 ### Project 2
 
@@ -56,5 +47,6 @@ To access the projects you will have to connect via VPN (this also applies to th
 
 Datasets
 ======
+On the Virtual Machine marked with **Data** in your project you'll find the Copernicus datasets under **/mount/copernicus**
 
 
