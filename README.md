@@ -52,10 +52,47 @@ To access the projects you will have to connect via VPN (this also applies to th
 
 ### Project 1
 
+| IP Address    | Type        | CPU    | RAM      | Storage     |
+| ------------- | ------------| ------ | -------- | ----------- |
+| 172.25.17.34  | Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
+| 172.25.17.35  | VM 1	      | 4 vCPU | 8GB      | 50GB        |
+| 172.25.17.36  | VM 2	      | 4 vCPU | 8GB      | 50GB        |
+| 172.25.17.47  | Raspberry 1	| 4 CPU  | 4GB      | 16GB        |
+| 172.25.17.48  | Raspberry 2	| 4 CPU  | 4GB      | 16GB        |
+| 172.25.17.49  | Coral 4	    | 4 CPU  | 8GB      | 32GB        |
+| 172.25.17.50  | Xavier 1    | 4 CPU  | 8GB      | 32GB        |
+| 172.25.17.51  | Xavier 2    | 8 CPU  | 32GB     | 32GB        |
+| 172.25.17.52  | Coral 3	    | 8 CPU  | 32GB     | 32GB        |
+	
+
 ### Project 2
+
+| IP Address    | Type        | CPU    | RAM      | Storage     |
+| ------------- | ------------| ------ | -------- | ----------- | 
+| 172.25.17.66  | Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
+| 172.25.17.67  | VM 1	      | 4 vCPU | 8GB      | 50GB        |
+| 172.25.17.68  | VM 2	      | 4 vCPU | 8GB      | 50GB        |
+| 172.25.17.79  | Coral 6	    | 4 CPU  | 4GB      | 16GB        |
+| 172.25.17.80  | Coral 5	    | 4 CPU  | 4GB      | 16GB        |
+| 172.25.17.81  | Raspberry 3	| 4 CPU  | 8GB      | 32GB        |
+| 172.25.17.82  | Raspberry 4	| 4 CPU  | 8GB      | 32GB        |
+| 172.25.17.83  | Xavier 4	  | 8 CPU  | 32GB     | 32GB        |
+| 172.25.17.84  | Xavier 3	  | 8 CPU  | 32GB     | 32GB        |
+
 
 ### Project 3
 
+| IP Address    | Type        | CPU    | RAM      | Storage     |
+| ------------- | ------------| ------ | -------- | ----------- | 
+| 172.25.17.98	| Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
+| 172.25.17.99	| VM 1	      | 4 vCPU | 8GB      | 50GB        |
+| 172.25.17.100	| VM 2	      | 4 vCPU | 8GB      | 50GB        |
+| 172.25.17.111	| Coral 8	    | 4 CPU	 | 4GB      | 16GB        |
+| 172.25.17.112	| Coral 7	    | 4 CPU	 | 4GB      | 16GB        | 
+| 172.25.17.113	| Raspberry 5	| 4 CPU	 | 8GB      | 32GB        |
+| 172.25.17.114	| Raspberry 6	| 4 CPU	 | 8GB      | 32GB        |
+| 172.25.17.115	| Xavier 5	  | 8 CPU	 | 32GB     | 32GB        |
+| 172.25.17.116	| Xavier 6	  | 8 CPU	 | 32GB     | 32GB        |
 
 
 ## Interesting know how that might be useful
