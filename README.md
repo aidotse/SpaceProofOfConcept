@@ -42,15 +42,20 @@ Steps:
 
 We've set up 3 baseline projects for the participants/collaborators to use freely during the event. Each machine has a "fresh" install of either the vendors suggested OS or when that does not applicable, Ubuntu 20.04 LTS. The hardware and networking setup for each project can be modified upon request, e.g. add/remove resources, limit bandwith etc.
 
+All the HW are actually part of the same network infrastructure, but are segmented into vlans. (sidenote: It is possible to configure all communication paths including routing federation communication via 5G, 4G, Wifi etc. But for the event we have skipped that part to make exploration easier.)
+
 Generic user guides for the various hw can be found here:
 
 **Nvidia Jetson AGX Xavier** [documentation and tutorials](https://developer.nvidia.com/embedded/learn/getting-started-jetson)  
 **Google Coral** [documentation and tutorials](https://coral.ai/docs/)  
 **Raspberry Pi 4** [documentation and tutorials](https://www.raspberrypi.org/learn/)  
 
-To access the projects you will have to connect via VPN (this also applies to those whom are attending on-site)
+(To access the projects you will have to connect via VPN (this also applies to those whom are attending on-site))
 
 ### Project 1
+
+IP Range 172.25.17.32/27
+Gateway: 172.25.17.33
 
 | IP Address    | Type        | CPU    | RAM      | Storage     |
 | ------------- | ------------| ------ | -------- | ----------- |
@@ -67,6 +72,9 @@ To access the projects you will have to connect via VPN (this also applies to th
 
 ### Project 2
 
+IP Range 172.25.17.64/27
+Gateway: 172.25.17.65
+
 | IP Address    | Type        | CPU    | RAM      | Storage     |
 | ------------- | ------------| ------ | -------- | ----------- | 
 | 172.25.17.66  | Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
@@ -82,6 +90,9 @@ To access the projects you will have to connect via VPN (this also applies to th
 
 ### Project 3
 
+IP Range 172.25.17.96/27
+Gateway: 172.25.17.97
+
 | IP Address    | Type        | CPU    | RAM      | Storage     |
 | ------------- | ------------| ------ | -------- | ----------- | 
 | 172.25.17.98	| Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
@@ -94,11 +105,21 @@ To access the projects you will have to connect via VPN (this also applies to th
 | 172.25.17.115	| Xavier 5	  | 8 CPU	 | 32GB     | 32GB        |
 | 172.25.17.116	| Xavier 6	  | 8 CPU	 | 32GB     | 32GB        |
 
+## Other resources that can be added to your project upon request
+Nvidia Jetson AGX Xavier & Drive PX2  
+Google Coral  
+Raspberry Pi 4  
+HPE EdgeLine1000 with Tesla T4 GPU [generic specs](https://h20195.www2.hpe.com/v2/getdocument.aspx?docname=c05211199)   
+Comino Grando RM with **Nvidia A100** / 3975WX / 256GB / 2TB NVMe [generic specs](https://grando.ai/choose-a-gpu-machine-for-ai-deep-learning/#grando-rm)   
+Virtual Machines (mainly CPU based)  
 
-## Interesting know how that might be useful
+# Interesting know how that might be useful
 
 Datasets
 ======
 On the Virtual Machine marked with **Data** in your project you'll find the Copernicus datasets under **/mount/copernicus**
 
 
+Tips & Tricks
+======
+Here are some nice [demos](https://coral.ai/docs/dev-board/get-started/#flash-the-board) for the Google Coral's thats nice to start with 
