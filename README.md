@@ -52,7 +52,7 @@ During the day, representatives from Smartilizer, HPE, Unibap and AI Sweden will
 
 
 **Day 3**  
-Continuation of Collaboraton - by invite and application only (on site & remote)
+08:00-15:00 Continuation of Collaboraton - by invite and application only (on site & remote)
 
 **15.00 the event opens up to the public again**  
 
