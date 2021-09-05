@@ -174,5 +174,8 @@ Here are some nice [demos](https://coral.ai/docs/dev-board/get-started/#flash-th
 
 Example projects
 ======
-The HW setup each team has been provided is compatible with [FedBird](https://github.com/aidotse/fedbird), a proof of concept utilizing Scaleouts [FEDn](https://github.com/scaleoutsystems/fedn) framework for the federation part together with YOLO3tiny on bird observation images. For a step by step tutorial on how to set ut up on your project, please see the "AI_Sweden-Fedbird_tutorial_xxx.pdf" in this repository
+**FedBird - powered by Scaleout FEDn**
+The HW setup each team has been provided is compatible with [FedBird](https://github.com/aidotse/fedbird), a proof of concept utilizing Scaleouts [FEDn](https://github.com/scaleoutsystems/fedn) framework for the federation part together with YOLO3tiny on bird observation images. 
+
+For a step by step tutorial on how to set ut up on your project, please see the "AI_Sweden-Fedbird_tutorial_xxx.pdf" in this repository
 
