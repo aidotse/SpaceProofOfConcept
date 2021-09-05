@@ -96,7 +96,7 @@ Generic user guides for the various hw can be found here:
 
 ### Project 1
 
-IP Range 172.25.17.32/27
+IP Range 172.25.17.32/27  
 Gateway: 172.25.17.33
 
 | IP Address    | Type        | CPU    | RAM      | Storage     |
@@ -114,7 +114,7 @@ Gateway: 172.25.17.33
 
 ### Project 2
 
-IP Range 172.25.17.64/27
+IP Range 172.25.17.64/27  
 Gateway: 172.25.17.65
 
 | IP Address    | Type        | CPU    | RAM      | Storage     |
@@ -132,7 +132,7 @@ Gateway: 172.25.17.65
 
 ### Project 3
 
-IP Range 172.25.17.96/27
+IP Range 172.25.17.96/27  
 Gateway: 172.25.17.97
 
 | IP Address    | Type        | CPU    | RAM      | Storage     |
