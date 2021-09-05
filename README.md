@@ -60,12 +60,16 @@ At the end of the brainstorming session we will ask you to pair up into groups o
 ## VPN access
 VPN account credentials has been sent out via mail, if you have not recieved them or has questions, reach out to kim@ai.se
 
-Please refer to the **VPNAccessGuideForX.pdf** for more detailed information for setting up the VPN connection.
+Please refer to the gudies linked bellow for more detailed information for setting up the VPN connection.
+
+- [Windows Gudie](VPNAccessGuideForWindows.pdf)
+- [Ubuntu Gudie](VPNAccessGuideForUbuntu.pdf)
+- [MacOS Gudie](VPNAccessGuideForMAC.pdf)
 
 **NOTE:** After you have logged in for the first time trough the vpn, you will need to change from the “default” password. After changing password, you will have the new password on both the VPN and services assigned to you.
 
 Steps:
-1. Go to accounts.edgelab.network/auth/realms/edgelab/account/ - requires VPN connection.
+1. Go to [here](https://accounts.edgelab.network/auth/realms/edgelab/account/) - requires VPN connection.
 2. Login with the password given to you over Email.
 3. Go to Signing In and then press Update
 4. Change password.
