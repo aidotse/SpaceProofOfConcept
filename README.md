@@ -154,19 +154,34 @@ Datasets
 ======
 On the Virtual Machine marked with **Data** in your project you'll find the Copernicus datasets under **/mount/copernicus**
 
+**Tips for handling the data**  
+To load and plot the data, install Xarray `pip install xarray`.(http://xarray.pydata.org/en/stable/). Basically, it is a one liner to load the data: `ds = xr.open_dataset("./karlstad_2020.nc”)`.
 
-Tips & Tricks
-======
-Here are some nice [demos](https://coral.ai/docs/dev-board/get-started/#flash-the-board) for the Google Coral's thats nice to start with 
+You may also find additional notebook examples [here](https://gitlab.ice.ri.se/sdl/documentation-how-to-notebooks) (just skip the Open Data Cube stuff) 
 
+We recommend using [Dask](https://dask.org) to speed up computation. It gives a huge performance gain even on a single machine as it also supports multi-threading in addition to distributed computing (assuming of course that you have more than one core :-) Alternatively, you may also use Julia instead of Python. Then you need to use PyCall.jl and load the Xarray library using the code below: 
+
+using PyCall  
+`xr = pyimport("xarray”)`  
+`ds = xr.open_dataset("./karlstad_2020.nc”)`  
+`julia_array = ds.values  # This is a now native Julia array.`  
+
+Distributed.jl and  Dagger.jl can then be used for parallelization, somewhat similar to Dask. 
+
+**Information about Sentinel-2 data in general**  
+The official website for Sentinel-2 is quite informative. You can find it [here](https://sentinel.esa.int/web/sentinel/missions/sentinel-2). For example, information regarding the sensor, the frequency bands, etc, can be found there. [Here](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi/resolutions/radiometric) is an example of that. It's easy to find information about the other satellites in the Sentinel series there as well.
+
+[GISGEOGRAPHY](https://gisgeography.com/sentinel-2-bands-combinations/) contains useful information regarding the creation of so called "False Color" images. These are meant to help highlight (for us humans), different aspects of what the satellite captures.
 
 Example projects
 ======
-**FedBird - powered by Scaleout FEDn**
+**FedBird - powered by Scaleout FEDn**  
 The HW setup each team has been provided is compatible with [FedBird](https://github.com/aidotse/fedbird), a proof of concept utilizing Scaleouts [FEDn](https://github.com/scaleoutsystems/fedn) framework for the federation part together with YOLO3tiny on bird observation images. 
 
 For a step by step tutorial on how to set ut up on your project, please see the "AI_Sweden-Fedbird_tutorial_xxx.pdf" in this repository
 
+**ML on Google Coral**  
+Here are some nice [demos](https://coral.ai/docs/dev-board/get-started/#flash-the-board) for the Google Coral's thats nice to start with 
 
 # Interesting know how that might be useful
 
