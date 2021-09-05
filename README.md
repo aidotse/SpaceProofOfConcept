@@ -58,7 +58,7 @@ Please note that the collaboration part of the event, 10:45AM 7th to 5PM 9th of 
 At the end of the brainstorming session we will ask you to pair up into groups of 3-7. Our hope is that the brainstorming will lead to a discovery of shared interest and ideas and therefore aim to leave the pairing up to you. If you wish to change group during the event, please notify us in slack (or in person if you are attending on-site). 
 
 ## VPN access
-VPN account credentials has been sent out via mail, if you have not recieved them or has questions, reach out to kim@ai.se
+VPN account credentials has been sent out via mail, if you have not recieved them or has questions, reach out to edgelab@ai.se
 
 Please refer to the gudies linked bellow for more detailed information for setting up the VPN connection.
 
