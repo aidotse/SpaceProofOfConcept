@@ -22,7 +22,7 @@ The first part of the event is an open webinar 8-10:45AM 7th of September, if yo
 8.40-8.55 Kim Henrikson - Zenseact/AI Sweden - Egde Lab   
 8.55-9.00 Short break  
 9.00-9.15 Evgenia Novikova - Smartilizer - About Federated frameworks and tools  
-9.15-9.45 Christer Fuglesang - KTH -   
+9.15-9.45 Christer Fuglesang - KTH - The difference between biological and artificial intelligence in space   
 9.45-9.50 Short break  
 9.50-10.10 Tina & Tom Sjögren - Pythomspace  
 10.10-10.20 Massimiliano Pastena - European Space Agency    
@@ -31,31 +31,22 @@ The first part of the event is an open webinar 8-10:45AM 7th of September, if yo
 
 **Open webinar transitions into invite only session**    
 
-10.45-12.00 Collaboraton kick-off brainstorming session (on site & remote)
-
-12-13 LUNCH BREAK
-
-13.00-16.30 Start of Collaboraton with free experimentation and exploration in the Egde Lab.  
-
-13.00-13:30 Deep dive into the edge lab infrastructure and Q&A to get everybody started - Kim/Leo
-
-? Afternoon HPE Swarm learning walkthrough
-
+10.45-12.00 Collaboraton kick-off brainstorming session (on site & remote)  
+12.00-13.00 LUNCH BREAK  
+13.00-16.30 Start of Collaboraton with free experimentation and exploration in the Egde Lab.    
+13.00-13:30 Deep dive into the edge lab infrastructure and Q&A to get everybody started  
+On demand: HPE Swarm learning walkthrough  
 16.30-17.30 After Work session - with **Tom and Tina from Pythomspace calling in live at 17.00**  
 
 **Day 2**  
-08.00-17.00 Collaboraton continues (By invite and application only, on site & remote)
-
-09.00-09.45 Tobias Edman -  Rymdstyrelsen giving a data walkthrough.
-
-During the day, representatives from Smartilizer, HPE, Unibap and AI Sweden will be available for brainstorming and support on Slack.
+08.00-17.00 Collaboraton continues (By invite and application only, on site & remote)  
+09.00-09.45 Tobias Edman -  Rymdstyrelsen giving a data walkthrough.  
+During the day, representatives from Smartilizer, HPE, Unibap and AI Sweden will be available for brainstorming and support on Slack.  
 
 
 **Day 3**  
-08:00-15:00 Continuation of Collaboraton - by invite and application only (on site & remote)
-
+08:00-15:00 Continuation of Collaboraton - by invite and application only (on site & remote)  
 **15.00 the event opens up to the public again**  
-
 15.00-17.00 Conclusion, wrap up and sharing of the PoC:s (open webinar)
 
 
@@ -155,13 +146,6 @@ HPE EdgeLine1000 with Tesla T4 GPU [generic specs](https://h20195.www2.hpe.com/v
 Comino Grando RM with **Nvidia A100** / 3975WX / 256GB / 2TB NVMe [generic specs](https://grando.ai/choose-a-gpu-machine-for-ai-deep-learning/#grando-rm)   
 Virtual Machines (mainly CPU based)  
 
-# Interesting know how that might be useful
-
-A survey of current available open-source FedML FWs, done by AI Sweden partner Smartilzer  
-[Open-Source Federated Learning Frameworks for IoT: A Comparative Review and Analysis:](https://pubmed.ncbi.nlm.nih.gov/33383803/)
-
-
-
 Datasets
 ======
 On the Virtual Machine marked with **Data** in your project you'll find the Copernicus datasets under **/mount/copernicus**
@@ -179,3 +163,16 @@ The HW setup each team has been provided is compatible with [FedBird](https://gi
 
 For a step by step tutorial on how to set ut up on your project, please see the "AI_Sweden-Fedbird_tutorial_xxx.pdf" in this repository
 
+
+# Interesting know how that might be useful
+
+A survey of current available open-source FedML FWs, done by AI Sweden partner Smartilzer  
+[Open-Source Federated Learning Frameworks for IoT: A Comparative Review and Analysis:](https://pubmed.ncbi.nlm.nih.gov/33383803/)
+
+Some recomended "light" reading  
+[Federated Learning on Non-IID Data Silos: An Experimental Study](https://arxiv.org/abs/2102.02079)  
+[Advances and Open Problems in Federated Learning](https://arxiv.org/abs/1912.04977?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253A+arxiv%252FQSXk+%2528ExcitingAds%2521+cs+updates+on+arXiv.org%2529)  
+[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/abs/1907.09693)  
+[Federated Learning for Mobile Keyboard Prediction](https://research.google/pubs/pub47586/)  
+
+The [strategy](https://www.rymdstyrelsen.se/nyheter/2019/rymdstyrelsens-strategi/) of the Swedish National Space Agency is a good reference on how to get funding for space endevours. 
