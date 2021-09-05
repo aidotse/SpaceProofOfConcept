@@ -157,6 +157,11 @@ Virtual Machines (mainly CPU based)
 
 # Interesting know how that might be useful
 
+A survey of current available open-source FedML FWs, done by AI Sweden partner Smartilzer  
+[Open-Source Federated Learning Frameworks for IoT: A Comparative Review and Analysis:](https://pubmed.ncbi.nlm.nih.gov/33383803/)
+
+
+
 Datasets
 ======
 On the Virtual Machine marked with **Data** in your project you'll find the Copernicus datasets under **/mount/copernicus**
