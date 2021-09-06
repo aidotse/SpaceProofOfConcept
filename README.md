@@ -183,6 +183,10 @@ For a step by step tutorial on how to set ut up on your project, please see the 
 **ML on Google Coral**  
 Here are some nice [demos](https://coral.ai/docs/dev-board/get-started/#flash-the-board) for the Google Coral's thats nice to start with 
 
+**Open source frameworks tutorials and introductions**  
+Tensorflow Federated: [Federated Learning for Image Classification](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification)  
+Pysyft: [Intro and examples](https://learnopencv.com/federated-learning-using-pytorch-and-pysyft/)
+
 # Interesting know how that might be useful
 
 A survey of current available open-source FedML FWs, done by AI Sweden partner Smartilzer  
@@ -195,3 +199,6 @@ Some recomended "light" reading
 [Federated Learning for Mobile Keyboard Prediction](https://research.google/pubs/pub47586/)  
 
 The [strategy](https://www.rymdstyrelsen.se/nyheter/2019/rymdstyrelsens-strategi/) of the Swedish National Space Agency is a good reference on how to get funding for space endevours. 
+
+**Communities**  
+[Openminded](https://www.openmined.org/) is an open-source community whose goal is to make the world more privacy-preserving by lowering the barrier-to-entry to private AI technologies
