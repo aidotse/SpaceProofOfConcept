@@ -1,0 +1,1 @@
+The User will use a subset of the 'Copernicus Sentinel data' for Sentinel data, namely 'Copernicus Sentinel data 2019-2020' for Sentinel data, provided by the Space Data Lab specifically for SPoC in the Edge Lab.

@@ -94,17 +94,17 @@ Generic user guides for the various hw can be found here:
 IP Range 172.25.17.32/27  
 Gateway: 172.25.17.33
 
-| IP Address    | Type        | CPU    | RAM      | Storage     |
-| ------------- | ------------| ------ | -------- | ----------- |
-| 172.25.17.34  | Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
-| 172.25.17.35  | VM 1	      | 4 vCPU | 8GB      | 50GB        |
-| 172.25.17.36  | VM 2	      | 4 vCPU | 8GB      | 50GB        |
-| 172.25.17.47  | Raspberry 1	| 4 CPU  | 4GB      | 16GB        |
-| 172.25.17.48  | Raspberry 2	| 4 CPU  | 4GB      | 16GB        |
-| 172.25.17.49  | Coral 4	    | 4 CPU  | 8GB      | 32GB        |
-| 172.25.17.50  | Xavier 1    | 4 CPU  | 8GB      | 32GB        |
-| 172.25.17.51  | Xavier 2    | 8 CPU  | 32GB     | 32GB        |
-| 172.25.17.52  | Coral 3	    | 8 CPU  | 32GB     | 32GB        |
+| IP Address   | Type        | CPU    | RAM  | Storage     |
+| ------------ | ----------- | ------ | ---- | ----------- |
+| 172.25.17.34 | Data VM     | 4 vCPU | 8GB  | 50GB + Data |
+| 172.25.17.35 | VM 1        | 4 vCPU | 8GB  | 50GB        |
+| 172.25.17.36 | VM 2        | 4 vCPU | 8GB  | 50GB        |
+| 172.25.17.47 | Raspberry 1 | 4 CPU  | 4GB  | 16GB        |
+| 172.25.17.48 | Raspberry 2 | 4 CPU  | 4GB  | 16GB        |
+| 172.25.17.49 | Coral 4     | 4 CPU  | 8GB  | 32GB        |
+| 172.25.17.50 | Xavier 1    | 4 CPU  | 8GB  | 32GB        |
+| 172.25.17.51 | Xavier 2    | 8 CPU  | 32GB | 32GB        |
+| 172.25.17.52 | Coral 3     | 8 CPU  | 32GB | 32GB        |
 	
 
 ### Project 2
@@ -112,17 +112,17 @@ Gateway: 172.25.17.33
 IP Range 172.25.17.64/27  
 Gateway: 172.25.17.65
 
-| IP Address    | Type        | CPU    | RAM      | Storage     |
-| ------------- | ------------| ------ | -------- | ----------- | 
-| 172.25.17.66  | Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
-| 172.25.17.67  | VM 1	      | 4 vCPU | 8GB      | 50GB        |
-| 172.25.17.68  | VM 2	      | 4 vCPU | 8GB      | 50GB        |
-| 172.25.17.79  | Coral 6	    | 4 CPU  | 4GB      | 16GB        |
-| 172.25.17.80  | Coral 5	    | 4 CPU  | 4GB      | 16GB        |
-| 172.25.17.81  | Raspberry 3	| 4 CPU  | 8GB      | 32GB        |
-| 172.25.17.82  | Raspberry 4	| 4 CPU  | 8GB      | 32GB        |
-| 172.25.17.83  | Xavier 4	  | 8 CPU  | 32GB     | 32GB        |
-| 172.25.17.84  | Xavier 3	  | 8 CPU  | 32GB     | 32GB        |
+| IP Address   | Type        | CPU    | RAM  | Storage     |
+| ------------ | ----------- | ------ | ---- | ----------- |
+| 172.25.17.66 | Data VM     | 4 vCPU | 8GB  | 50GB + Data |
+| 172.25.17.67 | VM 1        | 4 vCPU | 8GB  | 50GB        |
+| 172.25.17.68 | VM 2        | 4 vCPU | 8GB  | 50GB        |
+| 172.25.17.79 | Coral 6     | 4 CPU  | 4GB  | 16GB        |
+| 172.25.17.80 | Coral 5     | 4 CPU  | 4GB  | 16GB        |
+| 172.25.17.81 | Raspberry 3 | 4 CPU  | 8GB  | 32GB        |
+| 172.25.17.82 | Raspberry 4 | 4 CPU  | 8GB  | 32GB        |
+| 172.25.17.83 | Xavier 4    | 8 CPU  | 32GB | 32GB        |
+| 172.25.17.84 | Xavier 3    | 8 CPU  | 32GB | 32GB        |
 
 
 ### Project 3
@@ -130,17 +130,17 @@ Gateway: 172.25.17.65
 IP Range 172.25.17.96/27  
 Gateway: 172.25.17.97
 
-| IP Address    | Type        | CPU    | RAM      | Storage     |
-| ------------- | ------------| ------ | -------- | ----------- | 
-| 172.25.17.98	| Data VM	    | 4 vCPU | 8GB      | 50GB + Data |
-| 172.25.17.99	| VM 1	      | 4 vCPU | 8GB      | 50GB        |
-| 172.25.17.100	| VM 2	      | 4 vCPU | 8GB      | 50GB        |
-| 172.25.17.111	| Coral 8	    | 4 CPU	 | 4GB      | 16GB        |
-| 172.25.17.112	| Coral 7	    | 4 CPU	 | 4GB      | 16GB        | 
-| 172.25.17.113	| Raspberry 5	| 4 CPU	 | 8GB      | 32GB        |
-| 172.25.17.114	| Raspberry 6	| 4 CPU	 | 8GB      | 32GB        |
-| 172.25.17.115	| Xavier 5	  | 8 CPU	 | 32GB     | 32GB        |
-| 172.25.17.116	| Xavier 6	  | 8 CPU	 | 32GB     | 32GB        |
+| IP Address    | Type        | CPU    | RAM  | Storage     |
+| ------------- | ----------- | ------ | ---- | ----------- |
+| 172.25.17.98  | Data VM     | 4 vCPU | 8GB  | 50GB + Data |
+| 172.25.17.99  | VM 1        | 4 vCPU | 8GB  | 50GB        |
+| 172.25.17.100 | VM 2        | 4 vCPU | 8GB  | 50GB        |
+| 172.25.17.111 | Coral 8     | 4 CPU  | 4GB  | 16GB        |
+| 172.25.17.112 | Coral 7     | 4 CPU  | 4GB  | 16GB        |
+| 172.25.17.113 | Raspberry 5 | 4 CPU  | 8GB  | 32GB        |
+| 172.25.17.114 | Raspberry 6 | 4 CPU  | 8GB  | 32GB        |
+| 172.25.17.115 | Xavier 5    | 8 CPU  | 32GB | 32GB        |
+| 172.25.17.116 | Xavier 6    | 8 CPU  | 32GB | 32GB        |
 
 ## Other resources that can be added to your project upon request
 Nvidia Jetson AGX Xavier & Drive PX2  
@@ -154,6 +154,8 @@ Datasets
 ======
 On the Virtual Machine marked with **Data** in your project you'll find the Copernicus datasets under **/mount/copernicus**
 
+For more details on the dataset see [data/README.md](data/README.md) in data directory.
+<!---
 **Tips for handling the data**  
 To load and plot the data, install Xarray `pip install xarray`.(http://xarray.pydata.org/en/stable/). Basically, it is a one liner to load the data: `ds = xr.open_dataset("./karlstad_2020.nc”)`.
 
@@ -172,6 +174,7 @@ Distributed.jl and  Dagger.jl can then be used for parallelization, somewhat sim
 The official website for Sentinel-2 is quite informative. You can find it [here](https://sentinel.esa.int/web/sentinel/missions/sentinel-2). For example, information regarding the sensor, the frequency bands, etc, can be found there. [Here](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi/resolutions/radiometric) is an example of that. It's easy to find information about the other satellites in the Sentinel series there as well.
 
 [GISGEOGRAPHY](https://gisgeography.com/sentinel-2-bands-combinations/) contains useful information regarding the creation of so called "False Color" images. These are meant to help highlight (for us humans), different aspects of what the satellite captures.
+-->
 
 Example projects
 ======

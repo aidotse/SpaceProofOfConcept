@@ -1,0 +1,12 @@
+jupyterlab
+
+netCDF4
+h5netcdf
+
+sweref99
+numpy
+pandas
+matplotlib
+xarray
+
+dask
