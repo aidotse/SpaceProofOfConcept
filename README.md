@@ -176,12 +176,19 @@ The official website for Sentinel-2 is quite informative. You can find it [here]
 [GISGEOGRAPHY](https://gisgeography.com/sentinel-2-bands-combinations/) contains useful information regarding the creation of so called "False Color" images. These are meant to help highlight (for us humans), different aspects of what the satellite captures.
 -->
 
-Example projects
+Example projects & tips!
 ======
 **FedBird - powered by Scaleout FEDn**  
 The HW setup each team has been provided is compatible with [FedBird](https://github.com/aidotse/fedbird), a proof of concept utilizing Scaleouts [FEDn](https://github.com/scaleoutsystems/fedn) framework for the federation part together with YOLO3tiny on bird observation images. 
 
 For a step by step tutorial on how to set ut up on your project, please see the "AI_Sweden-Fedbird_tutorial_xxx.pdf" in this repository
+
+**Swarm by HPE**  
+This is a great github repository to check out! [HewlettPackard/swarm-learning: A simplified library for decentralized, privacy preserving machine learning](https://github.com/HewlettPackard/swarm-learning/)
+
+**Recommendations from attendees**  
+[Link archive of Satellite datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)  
+[Here is the labelled forest fire dataset](https://github.com/pereira-gha/activefire)
 
 **ML on Google Coral**  
 Here are some nice [demos](https://coral.ai/docs/dev-board/get-started/#flash-the-board) for the Google Coral's thats nice to start with 
